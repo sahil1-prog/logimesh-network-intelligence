@@ -1,0 +1,23 @@
+# Local data and datasets (large files)
+data/raw/
+data/processed/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Testing cache
+.pytest_cache/
+
+# IDE and System files
+.vscode/
+.idea/
+desktop.ini
+.DS_Store
