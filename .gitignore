@@ -1,6 +1,5 @@
 # Local data and datasets (large files)
 data/raw/
-data/processed/
 
 # Python cache files
 __pycache__/
@@ -21,3 +20,4 @@ env/
 .idea/
 desktop.ini
 .DS_Store
+data/processed/trips_clean.csv
